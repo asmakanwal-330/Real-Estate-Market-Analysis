@@ -1,10 +1,10 @@
 # Real Estate Market EDA Project-
 
+Welcome to this project repository where we dive deep into the Pakistani real estate market using data from Zameen.com. The goal of this exploratory data analysis (EDA) is to extract insights that can help investors and buyers make informed decisions  based on trends, pricing, and listing quality.
 
 Project  Title
  🏘️ Real Estate Market Insights: An Exploratory Analysis of Zameen.com Listings in Pakistan
 
-Welcome to this project repository where we dive deep into the Pakistani real estate market using data from Zameen.com. The goal of this exploratory data analysis (EDA) is to extract insights that can help investors and buyers make informed decisions  based on trends, pricing, and listing quality.
 
 🎯 Project Objective
 
@@ -43,7 +43,7 @@ The dataset contains the following features scraped from Zameen.com:
 
 
  3.  Missing Value Treatment
-    Addressed missing values with EDA techniques
+ * Addressed missing values with EDA techniques
 
 
  4. 🔍 Data Cleaning & Consistency
