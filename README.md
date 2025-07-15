@@ -1,12 +1,15 @@
-# Real Estate Market EDA Project-
+## Real Estate Market EDA Project-
 
-Welcome to this project repository where we dive deep into the Pakistani real estate market using data from Zameen.com. The goal of this exploratory data analysis (EDA) is to extract insights that can help investors and buyers make informed decisions  based on trends, pricing, and listing quality.
+Welcome to this project repository where we dive deep into the Pakistani real estate market using data from Zameen.com. 
+The goal of this exploratory data analysis (EDA) is to extract insights that can help investors and buyers make informed decisions 
+based on trends, pricing, and listing quality.
 
-Project  Title
- 🏘️ Real Estate Market Insights: An Exploratory Analysis of Zameen.com Listings in Pakistan
+## Project  Title
+
+🏘️ Real Estate Market Insights: An Exploratory Analysis of Zameen.com Listings in Pakistan
 
 
-🎯 Project Objective
+## 🎯 Project Objective
 
 To explore and analyze property listings on Zameen.com and uncover:
 
@@ -16,7 +19,7 @@ To explore and analyze property listings on Zameen.com and uncover:
 * Data-driven recommendations for real estate investors
 
 
- 🗃️ Dataset Description
+ ## 🗃️ Dataset Description
 
 The dataset contains the following features scraped from Zameen.com:
 
@@ -29,11 +32,11 @@ The dataset contains the following features scraped from Zameen.com:
 * 📝 Listing Title & Description
 
 
- 🔍 EDA Workflow Overview
+ ## 🔍 EDA Workflow Overview
 
  1. 🧩 Problem Statement
 
-> What are the factors that drive real estate prices in major Pakistani cities?
+ * What are the factors that drive real estate prices in major Pakistani cities?
 
  2. 📊 Data Understanding & Preprocessing
 
@@ -43,6 +46,7 @@ The dataset contains the following features scraped from Zameen.com:
 
 
  3.  Missing Value Treatment
+    
  * Addressed missing values with EDA techniques
 
 
@@ -58,7 +62,7 @@ The dataset contains the following features scraped from Zameen.com:
 * Derived new variables for enhanced insights (e.g., price per sqft) and Propert category(Residential/Commercial)
 
 
- 6. 📉 Univariate & Bivariate Analysis
+6. 📉 Univariate & Bivariate Analysis
 
 * Distribution plots for price, area
 * Heatmaps for correlations
